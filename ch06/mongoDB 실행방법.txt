@@ -1,0 +1,1 @@
+﻿mongod --dbpath /Users/Yalu/Desktop/ch06/database/local << 입력 후 할 것  몽고DB 실행코드  cmd에 치면댐
